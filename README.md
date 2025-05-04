@@ -40,7 +40,7 @@
 ---
 
 ## 📫 Kontakt
-
+  Bilal Al Chami
 📍 Isabellenstr. 25, 50678 Köln  
 📧 bilal.alchami.de@gmail.com  
 📞 +49 1577 1064072  
