@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hallo, ich bin Bilal Al Chami</h1>
 <h3 align="center">Ich bin angehender Softwareentwickler mit dem Schwerpunkt auf <strong>Software-Systeme</strong> sowie <strong>Netze und verteilte Systeme</strong>. Aktuell studiere ich Technische Informatik an der TH Köln.</h3>
 
-
 ---
 
 ## 🧠 Über mich
@@ -18,7 +17,7 @@
 <h3 align="center">Languages & Tools</h3>
 
 <p align="center">
-  <a href="https://airflow.apache.org/" target="_blank"><img src="[https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg](https://github.com/homarr-labs/dashboard-icons/blob/main/svg/apache-airflow.svg)" alt="airflow" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/" target="_blank"><img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/apache-airflow.svg" alt="airflow" width="40" height="40"/></a>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
