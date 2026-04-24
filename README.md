@@ -44,3 +44,4 @@
 📧 bilal.alchami.de@gmail.com  
 📞 +49 1577 1064072  
 🔗 [Mein GitHub](https://github.com/BilalAlChami?tab=repositories)
+![](https://komarev.com)
