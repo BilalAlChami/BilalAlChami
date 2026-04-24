@@ -3,7 +3,6 @@
 
 ---
 
-
 ## 🧠 Über mich
 
 - 🎓 Student der Technischen Informatik (Vertiefung: Software-Systeme & Netze)
@@ -30,12 +29,15 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://vectorlogo.zone" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com" alt="BilalAlChami" />
+</p>
 
 ---
 
@@ -44,4 +46,3 @@
 📧 bilal.alchami.de@gmail.com  
 📞 +49 1577 1064072  
 🔗 [Mein GitHub](https://github.com/BilalAlChami?tab=repositories)
-![](https://komarev.com)
