@@ -7,15 +7,12 @@
 
 - 🎓 **Studium:** Technische Informatik an der TH Köln (Schwerpunkt: Software-Systeme, Netze & verteilte Systeme)
 - 💼 **Erfahrung:** Data Engineering & NLP (Pipelines, Apache Airflow, Elasticsearch) bei GESIS – Leibniz-Institut für Sozialwissenschaften
-- 🛠 **Fokus:** Full-Stack-Entwicklung (Java/Spring Boot, Node.js), IoT-Architekturen (MQTT, WebSockets) und NLP/Machine Learning Operations
-- 🤝 **Arbeitsweise:** Agil (Scrum), Git-Workflow, CI/CD, modularer Architekturansatz und Teamplayer
 
 ---
 
 ## 🚀 Ausgewählte Projekte & Erfahrungen
 
 - 📊 **PoliCorp Data Pipeline (GESIS):** Automatisierte NLP-Pipelines (Airflow) zur Verarbeitung, Klassifikation (Huggingface, Flair) und Indexierung (Elasticsearch) politischer Textdaten in relationalen Datenbanken und Such-Indizes.
-- 📡 **Multi-Sensor IoT Tracking System:** Echtzeit-Webanwendung (Leaflet, Node.js, Express) zur Visualisierung von IoT-Sensordaten via MQTT-zu-WebSocket-Proxy inkl. VCR-Playback und Zonen-Management.
 - 🍕 **Restaurant CRM System:** JavaFX-Desktop-App für das Liefermanagement mit Echtzeit-Anruferkennung (TCP-Sockets/FRITZ!Box), komplexem Anpassungssystem und automatisiertem Rechnungsdruck.
 - 🏦 **Sensor-Simulator / Bank-App:** IoT-Simulatoren (REST/MQTT) und Spring Boot Backend-Systeme mit objektorientierten JavaFX-GUIs.
 
