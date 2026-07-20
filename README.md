@@ -1,24 +1,24 @@
-<h1 align="center">👋 Hallo, ich bin Bilal Al Chami</h1>
+<h1 align="center"> Hallo, ich bin Bilal Al Chami</h1>
 <h3 align="center">Angehender Softwareentwickler & Data Engineer mit Fokus auf <strong>Software-Systeme</strong>, <strong>Datenpipelines</strong> und <strong>IoT</strong>. Aktuell absolviere ich mein Bachelorstudium (Technische Informatik) an der TH Köln.</h3>
 
 ---
 
-## 🧠 Über mich
+##  Über mich
 
-- 🎓 **Studium:** Technische Informatik an der TH Köln (Schwerpunkt: Software-Systeme, Netze & verteilte Systeme)
-- 💼 **Erfahrung:** Data Engineering & NLP (Pipelines, Apache Airflow, Elasticsearch) bei GESIS – Leibniz-Institut für Sozialwissenschaften
-
----
-
-## 🚀 Ausgewählte Projekte & Erfahrungen
-
-- 📊 **PoliCorp Data Pipeline (GESIS):** Automatisierte NLP-Pipelines (Airflow) zur Verarbeitung, Klassifikation (Huggingface, Flair) und Indexierung (Elasticsearch) politischer Textdaten in relationalen Datenbanken und Such-Indizes.
-- 🍕 **Restaurant CRM System:** JavaFX-Desktop-App für das Liefermanagement mit Echtzeit-Anruferkennung (TCP-Sockets/FRITZ!Box), komplexem Anpassungssystem und automatisiertem Rechnungsdruck.
-- 🏦 **Sensor-Simulator / Bank-App:** IoT-Simulatoren (REST/MQTT) und Spring Boot Backend-Systeme mit objektorientierten JavaFX-GUIs.
+-  **Studium:** Technische Informatik an der TH Köln (Schwerpunkt: Software-Systeme, Netze & verteilte Systeme)
+-  **Erfahrung:** Data Engineering & NLP (Pipelines, Apache Airflow, Elasticsearch) bei GESIS – Leibniz-Institut für Sozialwissenschaften
 
 ---
 
-## 💡 Tech Stack
+##  Ausgewählte Projekte & Erfahrungen
+
+-  **PoliCorp Data Pipeline (GESIS):** Automatisierte NLP-Pipelines (Airflow) zur Verarbeitung, Klassifikation (Huggingface, Flair) und Indexierung (Elasticsearch) politischer Textdaten in relationalen Datenbanken und Such-Indizes.
+-  **Restaurant CRM System:** JavaFX-Desktop-App für das Liefermanagement mit Echtzeit-Anruferkennung (TCP-Sockets/FRITZ!Box), komplexem Anpassungssystem und automatisiertem Rechnungsdruck.
+-  **Sensor-Simulator / Bank-App:** IoT-Simulatoren (REST/MQTT) und Spring Boot Backend-Systeme mit objektorientierten JavaFX-GUIs.
+
+---
+
+##  Tech Stack
 
 <h3 align="center">Languages, Frameworks & Tools</h3>
 
