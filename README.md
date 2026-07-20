@@ -47,7 +47,7 @@
 
 ---
 
-## 📫 Kontakt
+##  Kontakt
  Felder Straße. 45a, 42651 Solingen  
  bilal.alchami.de@gmail.com  
  +49 1577 1064072  
